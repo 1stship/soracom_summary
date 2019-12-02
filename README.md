@@ -2,6 +2,9 @@
 SORACOM Summary は、ソラコム株式会社の提供する回線サービスSORACOMの使用状況をWeb APIを用いてスクレイピングし、
 取得した使用状況をSORACOM Harvestにアップロードすることにより可視化するツールです。
 
+こちらに説明の記事を投稿しております。
+https://qiita.com/drafts/0c3cfe0bc8ff6b363e9e
+
 ## インストール
 
 ```
